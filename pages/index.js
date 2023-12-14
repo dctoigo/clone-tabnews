@@ -1,5 +1,3 @@
-import styles from "./global.css";
-
 function Home() {
   return (
     <>
@@ -28,6 +26,7 @@ function Home() {
           </p>
         </div>
       </section>
+      <link rel="stylesheet" href="./style.css"></link>
     </>
   );
 }
